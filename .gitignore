@@ -1,0 +1,15 @@
+#packages
+*.zip
+*.rar
+*.jar
+*.tar
+#compiledsource
+*.dll
+*.com
+*.class
+*.dll
+*.so
+#Logs and databases
+*.sql
+*.log
+*.sqli
